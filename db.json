@@ -9,15 +9,16 @@
   ],
   "product_catagory"  : [
       { 
-          "id"   :  "size",
-          "M"    : "M" 
+        "id"   :  "size",
+        "M"    : "M" 
          
         }
   ],
   "product_brand":[
       {
-          "id"       : "color",
-          "Red"     : "#ff0000"    
+          "id"       : "barnd",
+          "brandName":"oppo",
+          "Red"     : "#ff0000"   
       }
   ],    
   "devs":[
