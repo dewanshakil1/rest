@@ -10,9 +10,8 @@
   "product_catagory"  : [
       { 
           "id"   :  "size",
-          "M"    : "M" ,
-          "XXL":"XXL" ,
-          "S"      :"S"
+          "M"    : "M" 
+         
         }
   ],
   "product_brand":[
